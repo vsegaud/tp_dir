@@ -1,0 +1,7 @@
+dn: uid=*2.*3,ou=personnes,dc=nakauaz,dc=fr
+changetype: add
+objectClass: inetOrgPerson
+cn: *3 *2
+sn: *2
+mail: *5
+telephoneNumber: *4

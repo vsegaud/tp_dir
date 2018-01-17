@@ -1,0 +1,2 @@
+#!/bin/bash
+ldapmodify -v -x -D cn=admin,dc=nakauaz,dc=fr -h localhost -w root -f $1
